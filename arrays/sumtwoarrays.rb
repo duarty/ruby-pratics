@@ -23,3 +23,11 @@ or
 def array_plus_array(arr1, arr2)
     (arr1 + arr2).reduce(:+)
 end
+
+=begin 
+or
+=end
+
+def array_plus_array(arr1, arr2)
+    (arr1 + arr2).sum
+end

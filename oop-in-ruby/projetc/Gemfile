@@ -1,0 +1,4 @@
+source 'http://rubygems.org/'
+
+gem 'require_relative'
+gem 'rubocop', require: false

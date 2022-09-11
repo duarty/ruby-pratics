@@ -10,3 +10,15 @@ def remove_char(s)
 end
 
 puts remove_char('eloquent') 
+
+=begin 
+Or 
+=end
+
+def remove_char(s)
+    s[1...-1]
+end
+
+puts remove_char('eloquent') 
+                  
+                         

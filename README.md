@@ -1,5 +1,5 @@
 # ruby 
-rep to pratice ruby/on rails fundamentals like:
+rep to pratice ruby/rails fundamentals like:
 
 - strings
 - arrays
@@ -7,6 +7,11 @@ rep to pratice ruby/on rails fundamentals like:
 - functions/def fundamentals 
 - object oriented paradigm with ruby
 - sort methods
+
+and gems:
+- require_relative
+- rubocop
+- 
 
 
 run bundler on terminal to download gems
